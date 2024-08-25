@@ -1,4 +1,4 @@
-# hangouts
+# Swifty-Companion
 
 A new Flutter project.
 
